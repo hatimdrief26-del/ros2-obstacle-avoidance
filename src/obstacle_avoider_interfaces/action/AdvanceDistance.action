@@ -1,0 +1,10 @@
+# Objectif : distance a parcourir en metres
+float64 distance_metres
+---
+# Resultat
+float64 distance_parcourue
+bool succes
+string message
+---
+# Feedback : distance restante
+float64 distance_restante

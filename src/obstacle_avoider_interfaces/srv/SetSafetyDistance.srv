@@ -1,0 +1,6 @@
+# Requete : nouvelle distance de securite en metres
+float64 distance
+---
+# Reponse
+bool success
+string message
