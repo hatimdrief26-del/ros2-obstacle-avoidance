@@ -58,8 +58,7 @@ If these commands fail, verify the ROS 2 distribution, installed packages and Ga
 
 ## Screenshots
 
-Add your own screenshots of Gazebo and RViz in an `images/` folder, and reference them here.
-
+ screenshots of Gazebo and RViz in an `images/` folder.
 ## Author
 
 **Hatim Drief** — Embedded Systems & Artificial Intelligence engineering student, ENSA Fès, Morocco.
